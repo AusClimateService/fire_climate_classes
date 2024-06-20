@@ -2,6 +2,7 @@
 Information on the creation and generation of fire climate classes (initial version), and the associated code and data.
 - Latest data update: 19/06/2024
 - Data location: /g/data/ia39/ncra/bushfire/
+- Data status can be found here: https://github.com/AusClimateService/hazard_data_release/blob/main/README.md 
 
 ## Description
 GitHub repository for ACS Hazard Team on Bushfires to store, track and develop code.
