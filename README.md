@@ -8,11 +8,12 @@ Information on the creation and generation of fire climate classes (initial vers
 GitHub repository for ACS Hazard Team on Bushfires to store, track and develop code.
 
 ## Fire climate classes summary
-Below the summary of the climate influences on fire for each of the five fire climate classes. The full description of the class creation and characteristics can be found in the full report [link here].
+The _fire climate classes_ provide a framework through which we can assess the changing bushfire risk for Australia, bringing together knowledge to create reliable, national data which can support planning and action towards more resilient communities. The fire climate classes are _defined_ using meteorological information (temperature and rainfall, which are available from climate projection models, allowing us to look into the future), but results from ecology research _characterise_ the fire climate classes. In examining how these classes have evolved through the past and are expected to evolve with climate change, we seek to provide more clarity about future bushfire risk. 
+
+Below is the summary of the climate influences on fire for each of the five fire climate classes. The full description of the class creation and characteristics can be found in the full report [link here].
 
 ### Tropical Savanna
-Climate influences and impacts summary:
--	Main influence on fire activity: Rainfall – increases in rainfall result in increased biomass productivity and therefore load and connectivity of fuels. This increases the risk of bushfire when the fuels dry (in the reliable dry season).
+-	**Main influence on fire activity:** Rainfall – increases in rainfall result in increased biomass productivity and therefore load and connectivity of fuels. This increases the risk of bushfire when the fuels dry (in the reliable dry season).
 -	Increased rainfall: Rainforest will encroach on savanna if mean annual rainfall increases, but the development of rainforest more likely to occur on fertile substrates for any given rainfall regime.
 -	Decreased rainfall or drought: Reduces risk of fire due to limiting biomass productivity, may alter the savanna structure, a long-term reduction in rainfall may lower tree density.
 -	Fire has a substantial effect on rainforest development within a relatively narrow band of mean annual rainfall.
@@ -20,31 +21,27 @@ Climate influences and impacts summary:
 -	Increasing fire weather severity with climate change, might reduce the length of the early dry season (prescribed burning season).
 
 ### Arid grasses and woodlands
-Climate influences and impacts summary:
--	Main influence on fire activity: to varying extents rainfall and fuel moisture. Rainfall in typically dry regions will promote biomass production in otherwise highly disconnected fuels. Extended dry periods are required for sufficient reduction of fuel moisture to enable fire activity. 
+-	**Main influence on fire activity:** to varying extents rainfall and fuel moisture. Rainfall in typically dry regions will promote biomass production in otherwise highly disconnected fuels. Extended dry periods are required for sufficient reduction of fuel moisture to enable fire activity. 
 -	The ecological dynamics in temperate southern Australia (under projected drier and warmer conditions) are likely to be increasingly driven by the interactions between drought, plant growth, and fire (Enright, et al., 2012).
 -	Decreased fuel moisture, increased fire intensity, decreased species survival (Enright, et al., 2012).
 -	Episodic peaks in biomass and connectivity of fuels follows wet years (Enright, et al., 2012).
 
 ### Wet forest
-Climate influences and impacts summary:
--	Main influence on fire activity: drought, and extreme fire weather. Usually, these ecosystems are too wet to burn but prolonged dry periods make the vegetation widely available to fire. 
+-	**Main influence on fire activity:** drought, and extreme fire weather. Usually, these ecosystems are too wet to burn but prolonged dry periods make the vegetation widely available to fire. 
 -	Reduced rainfall (long term) may reduce productivity and fuel loads, reducing fire risk. Reduced fine litter associated with declining canopy leaf biomass over Australian forests.
 -	Heathland and wet forests generally increase in flammability with age (time since fire) (McColl-Gausden & Penman, 2018).
 -	Increasing presence of invasive species/weeds increases fire risk in dry rainforest (Berry, et al., 2011).
 -	There is positive feedback of higher susceptibility to fire in rainforest systems due to drying after a fire. Dried forest is more susceptible to burn. Fire opens the canopy and allows more sunlight to penetrate to the lower levels of the rainforest, which dries surface fuels, further increasing the risk of fires. 
 
 ### Dry forest
-Climate influences and impacts summary:
--	Main influence on fire activity: extreme fire weather. Drought is a precursor to megafires as it increases the area of available (low fuel moisture) and connected fuel.  Increased frequency of heatwaves increases the chance of overnight fire activity and therefore more widespread fire activity.
+-	**Main influence on fire activity:** extreme fire weather. Drought is a precursor to megafires as it increases the area of available (low fuel moisture) and connected fuel.  Increased frequency of heatwaves increases the chance of overnight fire activity and therefore more widespread fire activity.
 -	Using satellite imagery, (Caccamoa, et al., 2014) showed (and verified within the study area, mix of dry forest and grass in the fire climate) that eucalypt forests recover rapidly after ﬁre (spectral indices values returned to pre-ﬁre levels three to six years after ﬁre). The inﬂuence of fire severity was limited to the ﬁrst two years after ﬁre.
 -	Increased fire frequency may change the understory fuel ratios (Gordon, et al., 2024).
 -	Increased frequency of heatwaves may increase dryness and fire risk.
 -	Potential decline in fine fuels, but increased dryness as suggested by proxy data, which led to decreased and increased fire risk, respectively.
 
 ### Grassland and crops
-Climate influences and impacts summary:
--	Main influence on fire activity: biomass productivity/fuel load. In cropping or grazing areas, fuel loads can be quite low (or prior to harvest, too wet to burn). In more arid, unfarmed areas, lower rainfall generally limits productivity. Unusually high rainfall which triggers growth is then a precursor for fire.
+-	**Main influence on fire activity:** biomass productivity/fuel load. In cropping or grazing areas, fuel loads can be quite low (or prior to harvest, too wet to burn). In more arid, unfarmed areas, lower rainfall generally limits productivity. Unusually high rainfall which triggers growth is then a precursor for fire.
 -	While drought in isolation can lower the risk of fire due to reduced biomass productivity and therefore fuel (Ellis, et al., 2004), high rainfall followed by drought leads to an elevated fire risk.
 
 ### References
