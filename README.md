@@ -1,7 +1,8 @@
 # fire_climate_classes
 Information on the creation and generation of fire climate classes (initial version), and the associated code and data.
-- Latest data update: 19/06/2024
+- Latest data update: 28/06/2024
 - Data location: /g/data/ia39/ncra/bushfire/
+- Figues available: /g/data/ia39/ncra/bushfire/figures
 - Data status can be found here: https://github.com/AusClimateService/hazard_data_release/blob/main/README.md 
 
 ## Description
