@@ -35,7 +35,7 @@ Below is the summary of the climate influences on fire for each of the five fire
 -	There is positive feedback of higher susceptibility to fire in rainforest systems due to drying after a fire. Dried forest is more susceptible to burn. Fire opens the canopy and allows more sunlight to penetrate to the lower levels of the rainforest, which dries surface fuels, further increasing the risk of fires. 
 
 ### Dry forest
--	**Main influence on fire activity:** extreme fire weather. Drought is a precursor to megafires as it increases the area of available (low fuel moisture) and connected fuel.  Increased frequency of heatwaves increases the chance of overnight fire activity and therefore more widespread fire activity.
+-	**Main influence on fire activity:** drought, heatwave, extreme fire weather. Drought is a precursor to megafires as it increases the area of available (low fuel moisture) and connected fuel.  Increased frequency of heatwaves increases the chance of overnight fire activity and therefore more widespread fire activity.
 -	Using satellite imagery, (Caccamoa, et al., 2014) showed (and verified within the study area, mix of dry forest and grass in the fire climate) that eucalypt forests recover rapidly after ﬁre (spectral indices values returned to pre-ﬁre levels three to six years after ﬁre). The inﬂuence of fire severity was limited to the ﬁrst two years after ﬁre.
 -	Increased fire frequency may change the understory fuel ratios (Gordon, et al., 2024).
 -	Increased frequency of heatwaves may increase dryness and fire risk.
