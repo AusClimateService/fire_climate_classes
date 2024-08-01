@@ -45,6 +45,12 @@ Below is the summary of the climate influences on fire for each of the five fire
 -	**Main influence on fire activity:** biomass productivity/fuel load. In cropping or grazing areas, fuel loads can be quite low (or prior to harvest, too wet to burn). In more arid, unfarmed areas, lower rainfall generally limits productivity. Unusually high rainfall which triggers growth is then a precursor for fire.
 -	While drought in isolation can lower the risk of fire due to reduced biomass productivity and therefore fuel (Ellis, et al., 2004), high rainfall followed by drought leads to an elevated fire risk.
 
+## Example application
+![image](https://github.com/user-attachments/assets/3958e7f3-5303-4544-b6a6-0afe64379688)
+![image](https://github.com/user-attachments/assets/447f02b2-41ad-49fd-91dc-470bda16e3ac)
+![image](https://github.com/user-attachments/assets/ea5c884c-1503-41bc-9189-67fcfc1e6975)
+
+
 ### References
 - Berry, Z. C., Wevill, K. & Curran, T. J., 2011. The invasive weed Lantana camara increases fire risk in dry rainforest by altering fuel beds. Weed Research, 51(5), pp. 525-533.
 - Caccamoa, G. et al., 2014. Using MODIS data to analyse post-fire vegetation recovery in Australianeucalypt forests. Journal of Spatial Science.
