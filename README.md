@@ -3,7 +3,7 @@ Information on the creation and generation of fire climate classes (initial vers
 - Latest data update: 28/06/2024
 - Projections data location: /g/data/ia39/ncra/bushfire/
 - Figues available: /g/data/ia39/ncra/bushfire/figures
-- Past data location - AGCD based (Jones, et al., 2009; Evans, et al., 2020): /g/data/ia39/ncra/bushfire/past_data
+- Past data location - generated from operational AGCD products (Jones, et al., 2009; Evans, et al., 2020): /g/data/ia39/ncra/bushfire/past_data
 - Data status can be found here: https://github.com/AusClimateService/hazard_data_release/blob/main/README.md 
 
 ## Description
