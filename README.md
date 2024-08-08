@@ -1,8 +1,9 @@
 # fire_climate_classes
 Information on the creation and generation of fire climate classes (initial version), and the associated code and data.
 - Latest data update: 28/06/2024
-- Data location: /g/data/ia39/ncra/bushfire/
+- Projections data location: /g/data/ia39/ncra/bushfire/
 - Figues available: /g/data/ia39/ncra/bushfire/figures
+- Past data location - AGCD based (Jones, et al., 2009; Evans, et al., 2020): /g/data/ia39/ncra/bushfire/past_data
 - Data status can be found here: https://github.com/AusClimateService/hazard_data_release/blob/main/README.md 
 
 ## Description
@@ -56,7 +57,9 @@ Below is the summary of the climate influences on fire for each of the five fire
 - Caccamoa, G. et al., 2014. Using MODIS data to analyse post-fire vegetation recovery in Australianeucalypt forests. Journal of Spatial Science.
 - Ellis, S., Kanowski, P. & Whelan, R., 2004. National Inquiry on Bushfire Mitigation and Management , Canberra: Commonwealth of Australia.
 - Enright, N. J., Keith, D. A., Clarke, M. F. & Miller, B. P., 2012. Fire regimes in Australian sclerophyllous shrubby ecosystems: heathlands, heathy woodlands and mallee woodlands.. In: R. A. Bradstock, A. M. Gill & R. J. Williams, eds. Flammable Australia: Fire regimes, biodiveristy and ecosystems in a changing world.. s.l.:CSIRO, pp. 215-234.
+- Evans, A., Jones, D., Smalley, R. & Lellyet, S., 2020. An enhanced gridded rainfall analysis scheme for Australia. Bureau Research Report – 41., Melbourne, Australia: Bureau of Meteorology.
 - Gordon, C. E. et al., 2024. Severe and Short Interval Fires Rearrange Dry Forest Fuel Arrays in South-Eastern Australia. Fire, 7(4).
+- Jones, D., Wang, W. & Fawcett, R., 2009. High-quality spatial climate data-sets for Australia. Australian Meteorological and Oceanographic Journal, Volume 58, p. 233–248.
 - McColl-Gausden, S. C. & Penman, T. D., 2018. Pathways of change: Predicting the effects of fire on flammability. Journal of environmental managemen, Volume 232, p. 243–253.
 
 
