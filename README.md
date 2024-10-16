@@ -47,9 +47,11 @@ Below is the summary of the climate influences on fire for each of the five fire
 -	While drought in isolation can lower the risk of fire due to reduced biomass productivity and therefore fuel (Ellis, et al., 2004), high rainfall followed by drought leads to an elevated fire risk.
 
 ## Example application
-![image](https://github.com/user-attachments/assets/3958e7f3-5303-4544-b6a6-0afe64379688)
-![image](https://github.com/user-attachments/assets/447f02b2-41ad-49fd-91dc-470bda16e3ac)
-![image](https://github.com/user-attachments/assets/ea5c884c-1503-41bc-9189-67fcfc1e6975)
+![image](https://github.com/user-attachments/assets/8fef4332-fd75-4e5f-9a39-edc116a62ba6)
+![image](https://github.com/user-attachments/assets/6930567d-14d6-4799-bbce-032b0c26c9c7)
+![image](https://github.com/user-attachments/assets/6aad1423-0c19-499e-9b89-d724fb4b5592)
+
+
 
 
 ### References
