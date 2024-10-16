@@ -53,8 +53,15 @@ Below is the summary of the climate influences on fire for each of the five fire
 
 
 
+## Shifts
+![image](https://github.com/user-attachments/assets/10a2784a-d5e1-4e8b-acd5-123e110ab68e)
+![image](https://github.com/user-attachments/assets/0164adfd-329e-470a-916d-2ac5fb74807f)
+![image](https://github.com/user-attachments/assets/705960bb-6f25-499e-b988-e21a57a2d1bd)
 
-### References
+
+
+
+## References
 - Berry, Z. C., Wevill, K. & Curran, T. J., 2011. The invasive weed Lantana camara increases fire risk in dry rainforest by altering fuel beds. Weed Research, 51(5), pp. 525-533.
 - Caccamoa, G. et al., 2014. Using MODIS data to analyse post-fire vegetation recovery in Australianeucalypt forests. Journal of Spatial Science.
 - Ellis, S., Kanowski, P. & Whelan, R., 2004. National Inquiry on Bushfire Mitigation and Management , Canberra: Commonwealth of Australia.
